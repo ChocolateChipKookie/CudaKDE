@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DensityEstimation", "DensityEstimation\DensityEstimation.vcxproj", "{CE807860-0312-4AB8-AA1C-5E0D98E30A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE807860-0312-4AB8-AA1C-5E0D98E30A4C}.Debug|x64.ActiveCfg = Debug|x64
+		{CE807860-0312-4AB8-AA1C-5E0D98E30A4C}.Debug|x64.Build.0 = Debug|x64
+		{CE807860-0312-4AB8-AA1C-5E0D98E30A4C}.Release|x64.ActiveCfg = Release|x64
+		{CE807860-0312-4AB8-AA1C-5E0D98E30A4C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB965D83-EDA5-48DE-B0B7-40019DF15708}
+	EndGlobalSection
+EndGlobal
