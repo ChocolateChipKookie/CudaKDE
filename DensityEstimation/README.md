@@ -1,29 +1,29 @@
 In this directory you can find 3 other directories and 5 files
 
 Files:
-  plot.jl:
-    Simple Julia lang script for plotting the results
+>plot.jl:
+>>Simple Julia lang script for plotting the results
 
-  README.md:
-    Readme file which you are currently reading
+>README.md:
+>>Readme file which you are currently reading
 
-  results.json:
-    Json timing file created by using the "timing.h" header file
-    To visualize the Json, open chrome and type "chrome://tracing" and pull and drop the json to the window.
-    The given window should look like the image "timing.png"
+>results.json:
+>>Json timing file created by using the "timing.h" header file
+>>To visualize the Json, open chrome and type "chrome://tracing" and pull and drop the json to the window.
+>>The given window should look like the image "timing.png"
 
-  root_to_txt.C:
-    ROOT script used for converting a ".root" file to a ".txt" file
+>root_to_txt.C:
+>>ROOT script used for converting a ".root" file to a ".txt" file
 
-  timing.png:
-    Visualized Json snippet made using the inbuilt tracing tool in chrome
+>timing.png:
+>>Visualized Json snippet made using the inbuilt tracing tool in chrome
 
 Directories:
-  data:
-    All the input and output data used in the program
+>data:
+>>All the input and output data used in the program
 
-  plot:
-    Directory with all the plots automatically created by the julia script
+>plot:
+>>Directory with all the plots automatically created by the julia script
 
-  src:
-    Directory with all the source files for the project
+>src:
+>>Directory with all the source files for the project
